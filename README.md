@@ -9,14 +9,15 @@ To assemble and program the example assembly file blink.S you will need to downl
 
 You will need to open the make and upload or makefile and edit the path to the path where you installed Energia on your computer.
 
-To assemble and upload on Windows.
+To assemble and upload on Windows:
 
 Plug in the MSP430 Lauchpad to a USB port
-Start command
+Start the command window
 cd to the directory that you saved the files in
 run the assemble file by entering make to assemble the code
 run the batch file entering upload to upload the code to the MSP430
-To assemble and upload on Mac OS.
+
+To assemble and upload on Mac OS:
 
 Plug in the MSP430 Lauchpad to a USB port
 Start terminal
