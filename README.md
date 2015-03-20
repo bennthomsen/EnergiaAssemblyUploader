@@ -5,7 +5,7 @@ To use these files you will need to install Energia on your machine. Please foll
 
 To test your Energia installation make sure you can compile and upload the Blink example that can be found in file>examples>basic. If successful the LED on the board should be blinking.
 
-To assemble and program the example assembly file blink.S you will need to download and save to the same folder blink.S, make.bat, upload.bat for windows or blink.S and makefile for Mac OS.
+To assemble and program the example assembly file blink.S you will need to download and save to the same folder blink.S, make.bat, upload.bat for windows or blink.S and makefile for Mac OS. You can download this from the releases page.
 
 You will need to open the make and upload or makefile and edit the path to the path where you installed Energia on your computer.
 
