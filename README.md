@@ -11,16 +11,16 @@ You will need to open the make and upload or makefile and edit the path to the p
 
 To assemble and upload on Windows:
 
-Plug in the MSP430 Lauchpad to a USB port
-Start the command window
-cd to the directory that you saved the files in
-run the assemble file by entering make to assemble the code
-run the batch file entering upload to upload the code to the MSP430
+Plug in the MSP430 Lauchpad to a USB port.
+Start the command window.
+cd to the directory that you saved the files in.
+Run the assemble file by entering make to assemble the code.
+Run the batch file entering upload to upload the code to the MSP430.
 
 To assemble and upload on Mac OS:
 
-Plug in the MSP430 Lauchpad to a USB port
-Start terminal
-cd to the directory that you saved the files in
-run the makefile file by entering make to assemble the code
-upload the assembled code by entering make upload
+Plug in the MSP430 Lauchpad to a USB port.
+Start terminal.
+cd to the directory that you saved the files in.
+To assemble the code run the makefile file by entering: make
+Upload the assembled code by entering: make upload
